@@ -1,3 +1,4 @@
+<img src="" alt="EROR"> 
 # Hi, I'm Parsa Ghorbanpour 👋
 I'm a high school student majoring in Computer Science at Vali-Asr Technical School in Rasht, Iran. I'm an aspiring front-end developer with a strong interest in web programming. Although I'm still gaining experience, I'm passionate about learning and growing in this field. I'm currently working on improving my skills and building real-world projects. My main goal is to become a confident and capable front-end developer, with hands-on experience and a strong portfolio.
 # SKILLS
