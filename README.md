@@ -7,7 +7,7 @@ I'm passionate about programming and web design, and I'm constantly working to i
 You can check out my projects and sample work in my GitHub repositories.
 
 # Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 # LIB & FWK
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -16,7 +16,7 @@ You can check out my projects and sample work in my GitHub repositories.
 # Operating System
 ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white) ![Windows 7](https://img.shields.io/badge/Windows_7-00adef?style=for-the-badge&logo=windows&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-00ADEF?style=for-the-badge&logo=windows11&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # currently learning
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
 # Personal activity
 ![Fortnite](https://img.shields.io/badge/Fortnite-9146FF?style=for-the-badge&logo=fortnite&logoColor=white) ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white) ![Books](https://img.shields.io/badge/Books-964B00?style=for-the-badge&logo=bookstack&logoColor=white)
 
