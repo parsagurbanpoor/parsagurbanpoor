@@ -16,7 +16,7 @@ You can check out my projects and sample work in my GitHub repositories.
 # Operating System
 ![Windows XP](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white) ![Windows 7](https://img.shields.io/badge/Windows_7-00adef?style=for-the-badge&logo=windows&logoColor=white) ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-00ADEF?style=for-the-badge&logo=windows11&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # currently learning
-
+I am resting😂
 # Personal activity
 ![Fortnite](https://img.shields.io/badge/Fortnite-9146FF?style=for-the-badge&logo=fortnite&logoColor=white) ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white) ![Books](https://img.shields.io/badge/Books-964B00?style=for-the-badge&logo=bookstack&logoColor=white)
 
