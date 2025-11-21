@@ -1,4 +1,4 @@
-## Hello Im parsa ghurbanpoor
+## Hello Im parsa Ghorbanpour 
 
 Hi, I'm Parsa Ghorbanpour I'm a junior front-end developer from Iran, currently living in the beautiful city of Rasht. I was born on May 3, 2008. At the moment, I'm a student at Vali-Asr Technical High School, majoring in Computer Networks and Software.
 
